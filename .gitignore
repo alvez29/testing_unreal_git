@@ -1,6 +1,3 @@
-# Visual Studio 2015 user specific files
-.vs/
-
 # Compiled Object files
 *.slo
 *.lo
@@ -72,5 +69,5 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-Saved/Logs/GitTesting.log
-/Saved
+Saved/*
+Intermediate/*
