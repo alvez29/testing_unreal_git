@@ -1147,3 +1147,7 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.09.04-17.41.34:904][190]LogSlate: Window 'BP_Actor' being destroyed
 [2024.09.04-17.41.34:906][190]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
 [2024.09.04-17.41.34:906][190]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.04-17.42.05:301][427]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.09.04-17.42.51:369][565]LogDerivedDataCache: C:/Users/almar/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.076 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 728 files in 1239 folders with total size 7 MiB.
+[2024.09.04-17.43.29:597][802]LogViewport: Scene viewport resized to 1422x874, mode Windowed.
+[2024.09.04-17.43.30:030][802]LogViewport: Scene viewport resized to 1416x1872, mode Windowed.
